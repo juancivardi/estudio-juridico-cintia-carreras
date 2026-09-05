@@ -6,13 +6,13 @@ export default function About() {
       <div className="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-2 md:gap-16">
 
         {/* Imagen */}
-        <div className="relative mx-auto w-full max-w-sm">
-          <div className="relative aspect-[4/5] overflow-hidden rounded-sm">
+        <div className="relative mx-auto w-full max-w-xs">
+          <div className="relative aspect-[5/5] overflow-hidden rounded">
             <Image
-              src="/images/cintia.jpeg"
+              src="/images/logoPNG.png"
               alt="Cintia Carreras Jacznik, abogada"
               fill
-              className="object-cover"
+              className="object-contain"
               sizes="(max-width: 768px) 100vw, 400px"
             />
           </div>

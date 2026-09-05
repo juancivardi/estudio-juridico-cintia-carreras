@@ -11,12 +11,12 @@ export default function PracticeAreas() {
             Áreas de práctica
           </p>
 
-          <h2 className="mt-4 text-3xl font-semibold tracking-tight text-black sm:text-4xl">
-            Asesoramiento en distintas áreas del derecho
+          <h2 className="mt-1 text-3xl font-medium tracking-tight text-black sm:text-3xl">
+            Asesoramiento y acompañamiento profesional
           </h2>
 
           <p className="mt-5 text-base leading-7 text-gray-600">
-            Conocé las principales áreas en las que el estudio
+            Conocé las principales áreas en las se
             brinda asesoramiento y representación legal.
           </p>
         </div>

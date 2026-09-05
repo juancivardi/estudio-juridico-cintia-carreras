@@ -54,13 +54,20 @@ export default async function PracticeAreaPage({
             Área de práctica
           </p>
 
-          <h1 className="mt-4 text-4xl font-semibold tracking-tight text-black sm:text-5xl">
+          <h1 className="mt-4 text-3xl font-semibold tracking-tight text-black sm:text-3xl">
             {area.title}
           </h1>
-
-          <p className="mt-6 max-w-3xl text-lg leading-8 text-gray-600">
-            {area.description}
+          <p className="mt-4 text-2xl font-medium tracking-tight text-black sm:text-2xl">
+            {area.content.intro}
           </p>
+
+          <div className="mt-6 max-w-3xl space-y-3 text-gray-600">
+            {area.content.paragraphs.map((paragraph, index) => (
+              <p key={index} className="leading-7">
+                {paragraph}
+              </p>
+              ))}
+          </div>
 
           <div className="mt-12 border-t border-black/10 pt-10">
             <h2 className="text-2xl font-semibold text-black">

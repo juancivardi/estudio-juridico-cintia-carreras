@@ -18,11 +18,10 @@ export default function Navbar() {
           {/* Logo / Nombre */}
           <a
             href="/"
-            className="text-lg font-semibold tracking-wide text-black"
+            className="border-b-2 border-[#B89B5E] text-lg font-semibold tracking-wide text-black"
             onClick={closeMenu}
           >
-            ESTUDIO JURÍDICO
-            <p className="text-lg font-semi tracking-wide text-black">Cintia Carreras Jacznik</p>
+            Cintia Carreras Jacznik
           </a>
           </div>
           {/* Menú desktop */}

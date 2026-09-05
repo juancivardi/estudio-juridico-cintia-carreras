@@ -8,21 +8,20 @@ export default function Hero() {
 
         <div>
           <p className="text-sm font-medium uppercase tracking-[0.2em] text-[#B89B5E]">
-            Estudio Jurídico
+            ABOGADA
           </p>
 
-          <h1 className="mt-4 text-4xl font-semibold tracking-tight text-black sm:text-5xl lg:text-6xl">
+          <h1 className="mt-4 text-3xl font-medium tracking-tight text-black sm:text-4xl lg:text-5xl">
             Cintia Carreras Jacznik
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-8 text-gray-600 sm:text-xl">
-            Asesoramiento y representación legal en La Plata,
-            Provincia de Buenos Aires.
+            Derecho Penal · Familia · Derecho Internacional Privado
+            Abogada de Niñas, Niños y Adolescentes
           </p>
 
           <p className="mt-4 max-w-xl text-sm leading-6 text-gray-500">
-            Derecho Penal, Derecho de Familia y Derecho
-            Internacional Privado.
+            Compromiso, cercanía y calidad profesional.
           </p>
 
           <WhatsAppButton
@@ -30,8 +29,8 @@ export default function Hero() {
           />
         </div>
 
-        <div className="relative mx-auto w-full max-w-sm">
-          <div className="relative aspect-[4/5] overflow-hidden rounded-sm">
+        <div className="relative mx-auto w-full max-w-xs">
+          <div className="relative aspect-[4/5] overflow-hidden rounded">
             <Image
               src="/images/cintia-foto.jpeg"
               alt="Cintia Carreras Jacznik, abogada en La Plata"
