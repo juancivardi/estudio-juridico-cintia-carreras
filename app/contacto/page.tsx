@@ -108,12 +108,6 @@ export default function ContactoPage() {
               </a>
             </div>
 
-            <div className="flex min-h-64 items-center justify-center border border-black/10 bg-gray-50 p-8">
-              <p className="text-center text-sm text-gray-400">
-                Aquí podremos incorporar un mapa de Google Maps.
-              </p>
-            </div>
-
           </div>
 
         </div>
