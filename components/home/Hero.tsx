@@ -7,20 +7,20 @@ export default function Hero() {
       <div className="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-2 md:gap-16">
 
         <div>
-          <p className="text-sm font-medium uppercase tracking-[0.2em] text-[#B89B5E]">
+          <p className="text-xl font-medium uppercase tracking-[0.3em] text-[#B89B5E]">
             ABOGADA
           </p>
 
-          <h1 className="mt-4 text-3xl font-medium tracking-tight text-black sm:text-4xl lg:text-5xl">
+          <h1 className="mt-4 text-3xl font-medium tracking-tight text-black sm:text-3xl lg:text-4xl">
             Cintia Carreras Jacznik
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-8 text-gray-600 sm:text-xl">
             Derecho Penal · Familia · Derecho Internacional Privado
-            Abogada de Niñas, Niños y Adolescentes
+            · Abogada de Niñas, Niños y Adolescentes
           </p>
 
-          <p className="mt-4 max-w-xl text-sm leading-6 text-gray-500">
+          <p className="mt-4 max-w-xl text-xl leading-6 text-gray-500">
             Compromiso, cercanía y calidad profesional.
           </p>
 

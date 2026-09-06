@@ -12,12 +12,11 @@ export default function PracticeAreas() {
           </p>
 
           <h2 className="mt-1 text-3xl font-medium tracking-tight text-black sm:text-3xl">
-            Asesoramiento y acompañamiento profesional
+            Compromiso y visión profesional
           </h2>
 
           <p className="mt-5 text-base leading-7 text-gray-600">
-            Conocé las principales áreas en las se
-            brinda asesoramiento y representación legal.
+            Una práctica profesional orientada al asesoramiento, la representación y la defensa técnica de derechos, con estrategia y compromiso.
           </p>
         </div>
 

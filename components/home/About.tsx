@@ -20,24 +20,32 @@ export default function About() {
 
         {/* Información */}
         <div>
-          <p className="text-sm font-medium uppercase tracking-[0.2em] text-[#B89B5E]">
-            El Estudio
+          <p className="text-xl font-medium uppercase tracking-[0.2em] text-[#B89B5E]">
+            Sobre mí
           </p>
 
-          <h2 className="mt-4 text-3xl font-semibold tracking-tight text-black sm:text-4xl">
-            Experiencia y compromiso profesional
+          <h2 className="mt-4 text-2xl font-semi tracking-tight text-black sm:text-3xl">
+            Compromiso y visión profesional.
           </h2>
 
           <p className="mt-6 text-base leading-7 text-gray-600">
-            El Estudio Jurídico Cintia Carreras Jacznik brinda
-            asesoramiento y representación legal, ofreciendo una
-            atención personalizada y profesional.
+            Como abogada, asumo el desafío de ejercer la profesión con el mayor compromiso, 
+            responsabilidad y respeto, entendiendo que una adecuada práctica profesional 
+            requiere no solo preparación jurídica, sino también calidad humana. 
+          </p>
+
+          <p className="mt-6 text-base leading-7 text-gray-600">
+            Para lograrlo, priorizo la formación 
+            continua y el estudio minucioso de cada situación. 
+            Creo firmemente que la mejor estrategia legal nace de comprender 
+            las particularidades de cada caso y de mantener una comunicación abierta, honesta y 
+            transparente con quienes depositan su confianza en mí.
           </p>
 
           <p className="mt-4 text-base leading-7 text-gray-600">
-            Nuestro objetivo es acompañar a cada cliente en el
-            análisis de su situación y encontrar las herramientas
-            jurídicas adecuadas para cada caso.
+            Asimismo, concibo mi labor desde el diálogo y el trabajo colaborativo con otros profesionales cuando el contexto lo requiere. 
+            Mi meta es brindar un acompañamiento cercano, traduciendo la complejidad de las leyes en 
+            soluciones claras y manteniendo siempre un compromiso real con la defensa de sus derechos.
           </p>
 
           <a

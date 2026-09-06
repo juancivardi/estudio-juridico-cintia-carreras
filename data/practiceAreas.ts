@@ -2,7 +2,7 @@ export const practiceAreas = {
   "derecho-penal": {
     title: "Derecho Penal",
     description:
-      "Asesoramiento y representación en procesos y causas penales.",
+      "Asesoramiento y representación jurídica principalmente a víctimas de delitos.",
     content: {
       intro:
         "Asesoramiento, representación y defensa técnica en procesos penales, con intervención en las distintas etapas del proceso y diseño de estrategias jurídicas adecuadas a cada caso concreto.",
@@ -41,15 +41,21 @@ export const practiceAreas = {
   },
 
   "derecho-internacional-privado": {
-    title: "Derecho Internacional Privado",
+    title: "Derecho Internacional Privado de Familia",
     description:
-      "Asesoramiento y representación jurídica que involucran elementos internacionales.",
+      "Asesoramiento y representación jurídica en cuestiones que involucran elementos extranjeros.",
     content: {
       intro:
-        "El estudio interviene en cuestiones jurídicas en donde se prensentan situaciónes de carácter internacional.",
+        "Asesoramiento y representación jurídica en cuestiones de familia que presentan elementos extranjeros, con especial atención a las particularidades derivadas de la intervención de distintos ordenamientos jurídicos.",
 
       paragraphs: [
-        ""
+        "Especialista en:",
+        "- Restitución internacional de niñas y niños ante traslados o retenciones ilícitas.",
+        "- Reconocimiento y ejecución de sentencias extranjeras (exequátur).",
+        "- Validez y reconocimiento de matrimonios celebrados en el extranjero.",
+        "- Reclamos de alimentos internacionales.",
+        "- Divorcios con elementos extranjeros.",
+        "- Sucesiones internacionales.",
       ],
     },
   },
