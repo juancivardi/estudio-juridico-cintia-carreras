@@ -52,7 +52,7 @@ export default function About() {
             href="/contacto"
             className="mt-8 inline-flex text-sm font-semibold text-black underline decoration-[#B89B5E] decoration-2 underline-offset-4 transition-colors hover:text-[#B89B5E]"
           >
-            Conocer más sobre el estudio →
+            Conocer más... →
           </a>
         </div>
 

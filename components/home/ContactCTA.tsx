@@ -13,13 +13,11 @@ export default function ContactCTA() {
             </p>
 
             <h2 className="mt-4 text-4xl font-semi tracking-tight text-white sm:text-3xl">
-              ¿Necesitás asesoramiento jurídico?
+              ¿Necesitás orientación jurídica?
             </h2>
 
             <p className="mt-5 max-w-xl text-base leading-7 text-gray-300">
-              Comunicate con el Estudio Jurídico Cintia Carreras
-              Jacznik para realizar tu consulta y recibir
-              asesoramiento personalizado.
+              Estoy para escucharte, orientarte y brindarte el asesoramiento jurídico que necesitás. Comunicate conmigo para contarme tu situación y analizar juntos el camino más adecuado para tu caso.
             </p>
 
             <WhatsAppButton
