@@ -18,15 +18,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
-      <body>
+      <body className="bg-white">
+        {/* Imagen de fondo */}
         <div
-          className="pointer-events-none fixed inset-0 z-0 flex items-center justify-center"
-          aria-hidden="true"
-        >
-          <div className="text-[15rem] leading-none text-[#B89B5E] opacity-[0.10]">
-            ⚖
-          </div>
-        </div>
+          className="absolute fixed inset-0 -z-10 bg-cover bg-center opacity-20"
+          style={{ backgroundImage: "url('/images/estudio.jpeg')" }}
+        />
+        
         <Navbar />
 
         {children}

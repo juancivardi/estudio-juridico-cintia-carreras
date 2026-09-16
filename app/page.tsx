@@ -8,8 +8,8 @@ export default function Home() {
     <>
       <main>
         <Hero />
-        <PracticeAreas />
         <About />
+        <PracticeAreas />
         <ContactCTA />
       </main>
     </>

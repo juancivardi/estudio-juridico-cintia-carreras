@@ -18,7 +18,7 @@ export default function Navbar() {
           {/* Logo / Nombre */}
           <a
             href="/"
-            className="border-b-2 border-[#B89B5E] text-lg font-semibold tracking-wide text-black"
+            className="border-b-2 font-serif border-[#B89B5E] text-lg font-semibold tracking-wide text-black"
             onClick={closeMenu}
           >
             Cintia Carreras Jacznik
