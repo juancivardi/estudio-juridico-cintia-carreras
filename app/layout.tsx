@@ -6,9 +6,9 @@ import WhatsappButton from "@/components/ui/WhatsappButton";
 import { FaWhatsapp } from "react-icons/fa";
 
 export const metadata: Metadata = {
-  title: "Estudio Jurídico Cintia Carreras Jacznik | La Plata",
+  title: "Abogada Cintia Carreras Jacznik | La Plata",
   description:
-    "Estudio Jurídico Cintia Carreras Jacznik en La Plata. Derecho Penal, Derecho de Familia y Derecho Internacional Privado. Consultas por WhatsApp.",
+    "Abogada Cintia Carreras Jacznik en La Plata. Derecho Penal, Derecho de Familia y Derecho Internacional Privado. Consultas por WhatsApp.",
 };
 
 export default function RootLayout({

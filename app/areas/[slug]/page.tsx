@@ -23,8 +23,8 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${area.title} | Estudio Jurídico Cintia Carreras Jacznik`,
-    description: `${area.description} Estudio Jurídico Cintia Carreras Jacznik en La Plata.`,
+    title: `${area.title} | Abogada Cintia Carreras Jacznik`,
+    description: `${area.description} Abogada Cintia Carreras Jacznik en La Plata.`,
   };
 }
 
@@ -70,14 +70,9 @@ export default async function PracticeAreaPage({
           </div>
 
           <div className="mt-12 border-t border-black/10 pt-10">
-            <h2 className="text-2xl font-semibold text-black">
-              Asesoramiento jurídico personalizado
-            </h2>
 
             <p className="mt-4 max-w-3xl leading-7 text-gray-600">
-              Cada situación requiere un análisis particular. El
-              estudio brinda asesoramiento y representación legal
-              de acuerdo con las circunstancias de cada caso.
+              {area.content.final}
             </p>
 
             <WhatsAppButton

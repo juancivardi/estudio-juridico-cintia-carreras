@@ -6,7 +6,7 @@ type WhatsAppButtonProps = {
 const phoneNumber = "542216062175";
 
 export default function WhatsAppButton({
-  children = "Consultar por WhatsApp",
+  children = "WhatsApp",
   className = "",
 }: WhatsAppButtonProps) {
   const message = encodeURIComponent(

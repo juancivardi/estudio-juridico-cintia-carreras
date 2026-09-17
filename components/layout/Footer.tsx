@@ -6,8 +6,8 @@ export default function Footer() {
           
           {/* Información del estudio */}
           <div>
-            <p className="text-lg font-semibold tracking-wide">
-              ESTUDIO JURÍDICO
+            <p className="text-lg text-[#B89B5E] tracking-wide">
+             Abogada
             </p>
 
             <p className="mt-2 text-sm text-gray-400">
@@ -19,15 +19,15 @@ export default function Footer() {
 
           {/* Contacto */}
           <div>
-            <h3 className="text-sm font-semibold uppercase tracking-wider text-[#B89B5E]">
+            <h3 className="text-sm font-semibold tracking-wider text-[#B89B5E]">
               Contacto
             </h3>
 
             <div className="mt-4 space-y-2 text-sm text-gray-400">
               <p>221-6062175</p>
-              <p>carrerasjacznikyasociados@gmail.com</p>
+              <p className="break-words">carrerasjacznikyasociados@gmail.com</p>
               <p>
-                Calle 8 N.º 862 entre 49 y 50,
+                Calle 8 N.º 862 entre 49 y 50, Edificio Pentágono
                 <br />
                 2.º piso, Of. F
               </p>
@@ -36,13 +36,14 @@ export default function Footer() {
 
           {/* Atención */}
           <div>
-            <h3 className="text-sm font-semibold uppercase tracking-wider text-[#B89B5E]">
+            <h3 className="text-sm font-semibold tracking-wider text-[#B89B5E]">
               Atención
             </h3>
 
             <div className="mt-4 space-y-2 text-sm text-gray-400">
               <p>Lunes a viernes</p>
               <p>9:00 a 17:00 hs.</p>
+              <p>Consultas con turno previo</p>
               <p>La Plata, Buenos Aires</p>
             </div>
           </div>
@@ -62,7 +63,7 @@ export default function Footer() {
 
         <div className="mt-10 border-t border-white/10 pt-6 text-center">
           <p className="text-xs text-gray-500">
-            © {new Date().getFullYear()} Estudio Jurídico Cintia Carreras Jacznik.
+            © {new Date().getFullYear()} Abogada Cintia Carreras Jacznik.
             Todos los derechos reservados.
           </p>
         </div>

@@ -13,16 +13,17 @@ export default function ContactCTA() {
             </p>
 
             <h2 className="mt-4 text-4xl font-semi tracking-tight text-white sm:text-3xl">
-              ¿Necesitás orientación jurídica?
+              ¿Necesitás ayuda con un tema legal?
             </h2>
 
             <p className="mt-5 max-w-xl text-base leading-7 text-gray-300">
-              Estoy para escucharte, orientarte y brindarte el asesoramiento jurídico que necesitás. Comunicate conmigo para contarme tu situación y analizar juntos el camino más adecuado para tu caso.
+              Estoy para ayudarte y acompañarte. <br/>
+              Mi objetivo es escucharte, orientarte y brindarte el asesoramiento que necesitás. Comunicate conmigo para contarme tu situación y evaluar juntos el camino más adecuado.
             </p>
 
-            <WhatsAppButton
-            className="mt-8 inline-flex rounded-md bg-[#B89B5E] px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-[#9F854D]"
-          />
+            <WhatsAppButton className="mt-8 inline-flex rounded-md bg-[#B89B5E] px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-[#9F854D]">
+              Conversá conmigo 
+            </WhatsAppButton>
           </div>
         </div>
       </div>

@@ -16,8 +16,7 @@ export default function ContactoPage() {
             </h1>
 
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Comunicate con el Estudio Jurídico Cintia Carreras
-              Jacznik para realizar tu consulta.
+              Comunicate con la abogada para realizar tu consulta.
             </p>
           </div>
 
@@ -75,6 +74,7 @@ export default function ContactoPage() {
                 <br />
                 9:00 a 17:00 hs.
               </p>
+              <p>Consultas con turno previo</p>
             </div>
 
           </div>
@@ -86,14 +86,10 @@ export default function ContactoPage() {
                 Dirección
               </p>
 
-              <h2 className="mt-3 text-xl font-semibold text-black">
-                Estudio Jurídico
-              </h2>
-
               <p className="mt-3 text-sm leading-7 text-gray-600">
-                Calle 8 N.º 862 entre 49 y 50,
+                Calle 8 N.º 862 entre 49 y 50, Edificio Pentágono
                 <br />
-                2.º piso, Oficina F.
+                2.º piso, Of. F.
                 <br />
                 La Plata, Provincia de Buenos Aires.
               </p>
@@ -106,6 +102,15 @@ export default function ContactoPage() {
               >
                 Cómo llegar
               </a>
+            </div>
+            <div className="overflow-hidden rounded flex justify-center">
+                    <iframe
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2450.9637712066797!2d-57.953034280956125!3d-34.915381621380654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2e630bc98d1a9%3A0xf50bb25b4c8d5651!2sC.%208%20862%2C%20B1900THB%20La%20Plata%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1789507726630!5m2!1ses-419!2sar"
+                      className="h-[250px] w-[250px] border-0"
+                      loading="lazy"
+                      referrerPolicy="no-referrer-when-downgrade"
+                      title="Tita Nails La Plata"
+                    />
             </div>
 
           </div>

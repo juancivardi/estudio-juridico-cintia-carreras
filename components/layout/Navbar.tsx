@@ -18,7 +18,7 @@ export default function Navbar() {
           {/* Logo / Nombre */}
           <a
             href="/"
-            className="border-b-2 font-serif border-[#B89B5E] text-lg font-semibold tracking-wide text-black"
+            className="uppercase font-bold text-[#B89B5E] text-xl tracking-wide "
             onClick={closeMenu}
           >
             Cintia Carreras Jacznik
@@ -55,9 +55,8 @@ export default function Navbar() {
             </a>
 
             <WhatsAppButton
-              className="rounded-md bg-[#B89B5E] px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-[#9F854D]">
-              WhatsApp
-            </WhatsAppButton>
+              className="rounded-md bg-[#B89B5E] px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-[#9F854D]"  
+            />
             
           </div>
 
