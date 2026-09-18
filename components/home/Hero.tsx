@@ -6,33 +6,27 @@ export default function Hero() {
     <section className="px-6 py-20">
       <div className="mx-auto grid max-w-5xl items-center md:grid-cols-2">
         <div>
-          <p className="text-3xl font-bold text-[#B89B5E]">
-            Abogada
-          </p>
-
-          <h1 className="mt-4 text-xl font-semibold">
+          <h1 className="text-2xl font-semi tracking-tight sm:text-3xl">
             Cintia Carreras Jacznik
           </h1>
 
-          <p className="mt-6 text-xl ">
-            · Derecho Penal <br />
-            · Familia <br /> 
-            · Derecho Internacional Privado <br />
-            · Abogada de Niñas, Niños y Adolescentes <br />
+          <p className="text-xl tracking-[0.1em] text-[#B89B5E]">
+            Abogada
           </p>
 
-          <p className="mt-4 max-w-xl text-xl leading-8">
+          <p className="mt-6 text-m leading-8">
+            · Derecho Penal · Familia  · Derecho Internacional Privado <br />
+            · Abogada de Niñas, Niños y Adolescentes
+          </p>
+
+          <p className="mt-6 text-m">
             Compromiso, cercanía y calidad profesional.
           </p>
 
-          <div className="m-8 flex justify-center">
-          <WhatsAppButton
-            className="rounded-md bg-[#B89B5E] px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-[#9F854D]"
-          />
         </div>
-        </div>
+        
 
-        <div className="relative mx-auto w-full max-w-[250px] shadow-[0_6px_20px_rgba(0,0,0,0.25)]">
+        <div className="mt-10 relative mx-auto w-full max-w-[250px] shadow-[0_6px_20px_rgba(0,0,0,0.25)]">
           <div className="relative aspect-[4/5] overflow-hidden rounded">
             <Image
               src="/images/cintia-foto.jpeg"
