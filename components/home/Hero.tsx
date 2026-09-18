@@ -17,7 +17,7 @@ export default function Hero() {
 
           <div className="mt-5 h-px w-12 bg-[#B89B5E]" />
 
-          <p className="mt-5 max-w-xl text-base leading-7 text-gray-700">
+          <p className="mt-5 max-w-xl text-base leading-7">
             Derecho Penal · Familia · Derecho Internacional Privado
             <br />
             Abogada de Niñas, Niños y Adolescentes
