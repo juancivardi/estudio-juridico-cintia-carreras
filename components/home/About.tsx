@@ -10,10 +10,6 @@ export default function About() {
             Sobre mí
           </p>
 
-          <h2 className="mt-4 text-xl font-semi tracking-tight text-black">
-            Compromiso y visión profesional.
-          </h2>
-
           <p className="mt-6 text-base leading-7">
             Como abogada, asumo el desafío de ejercer la profesión con el mayor compromiso, 
             responsabilidad y respeto, entendiendo que una adecuada práctica profesional 
