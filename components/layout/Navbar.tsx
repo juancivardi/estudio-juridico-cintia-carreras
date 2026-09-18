@@ -18,7 +18,7 @@ export default function Navbar() {
           {/* Logo / Nombre */}
           <a
             href="/"
-            className="uppercase font-bold text-[#B89B5E] text-xl tracking-wide "
+            className="text-[#B89B5E] text-xl tracking-wide"
             onClick={closeMenu}
           >
             Cintia Carreras Jacznik

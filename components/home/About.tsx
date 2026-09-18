@@ -6,11 +6,11 @@ export default function About() {
       <div className="mx-auto max-w-7xl items-center">
         {/* Información */}
         <div>
-          <p className="text-xl font-bold uppercase tracking-[0.1em] text-[#B89B5E]">
+          <p className="text-xl font-bold tracking-tight text-[#B89B5E]">
             Sobre mí
           </p>
 
-          <h2 className="mt-4 text-2xl font-semi tracking-tight text-black sm:text-3xl">
+          <h2 className="mt-4 text-xl font-semi tracking-tight text-black">
             Compromiso y visión profesional.
           </h2>
 

@@ -3,11 +3,11 @@ import Image from "next/image";
 
 export default function PracticeAreas() {
   return (
-    <section id="areas" className="px-6 py-20 md:py-28">
-      <div className="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-[1fr_280px] md:gap-16">
+    <section id="areas" className="px-6 py-20">
+      <div className="mx-auto grid max-w-7xl items-center gap-12 md:gap-16">
         <div>
           <div className="max-w-2xl">
-            <h2 className="text-xl font-bold tracking-[0.1em] text-[#B89B5E]">
+            <h2 className="text-xl font-bold tracking-tight text-[#B89B5E]">
               Áreas de práctica
             </h2>
 
@@ -44,18 +44,7 @@ export default function PracticeAreas() {
           </div>
         </div>
 
-        {/* Logo */}
-        <div className="mx-auto w-full max-w-[220px]">
-          <div className="relative aspect-square">
-            <Image
-              src="/images/logoPNG.png"
-              alt="Cintia Carreras Jacznik, abogada"
-              fill
-              className="object-contain"
-              sizes="220px"
-            />
-          </div>
-        </div>
+        
 
       </div>
     </section>
