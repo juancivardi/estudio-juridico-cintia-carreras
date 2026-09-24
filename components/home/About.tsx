@@ -2,7 +2,7 @@
 
 export default function About() {
   return (
-    <section id="estudio" className="bg-white px-6 py-10 md:py-15">
+    <section id="about" className="bg-white px-6 py-10 md:py-15">
       <div className="mx-auto max-w-7xl items-center">
         {/* Información */}
         <div>

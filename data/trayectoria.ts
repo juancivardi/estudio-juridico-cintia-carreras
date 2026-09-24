@@ -172,7 +172,7 @@ export const trayectoria = [
             "Comisión de la Abogacía Joven y Novel, Colegio de la Abogacía de La Plata.",
         },
         {
-        year: "2019 –2 021",
+        year: "2019 – 2021",
         title: "Secretaria",
         institution:
             "Comisión de Administración de Justicia, Colegio de la Abogacía de La Plata.",

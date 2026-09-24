@@ -34,7 +34,7 @@ export default function Navbar() {
             </a>
 
             <a
-              href="/#estudio"
+              href="/#about"
               className="text-sm text-gray-800 transition-colors hover:text-[#B89B5E]"
             >
               Sobre mí
@@ -85,11 +85,11 @@ export default function Navbar() {
               </a>
 
               <a
-                href="/#estudio"
+                href="/#about"
                 onClick={closeMenu}
                 className="text-sm text-gray-800"
               >
-                Nosotros
+                Sobre mí
               </a>
 
               <a
