@@ -10,7 +10,7 @@ export default function TrayectoriaPage() {
 
           {/* Encabezado */}
           <div className="max-w-3xl">
-            <h1 className="mt-2 text-3xl tracking-tight text-[#B89B5E]">
+            <h1 className="mt-2 text-2xl tracking-tight text-[#B89B5E]">
               Mi trayectoria
             </h1>
 
