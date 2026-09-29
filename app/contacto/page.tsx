@@ -11,10 +11,6 @@ export default function ContactoPage() {
               Contacto
             </p>
 
-            <h1 className="mt-4 text-4xl font-semibold tracking-tight text-black sm:text-5xl">
-              Estamos para ayudarte
-            </h1>
-
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Comunicate con la abogada para realizar tu consulta.
             </p>
