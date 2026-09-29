@@ -10,5 +10,9 @@ export const trayectoria = [
   {
     title: "Docencia e investigación",
     intro: "La docencia y la investigación forman también parte de mi trayectoria profesional. Hasta 2026 me desempeñé como docente de Derecho Internacional Privado en la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional de La Plata, participando en proyectos de investigación, congresos y actividades académicas vinculadas con la enseñanza del Derecho. Asimismo, integré la mesa organizadora del Congreso Internacional de Enseñanza del Derecho y participé en distintos espacios vinculados con la formación y la evaluación educativa. Esta trayectoria académica forma parte de una concepción de la profesión basada en la formación permanente, la reflexión y la actualización profesional."
+  },
+  {
+    title: "Trayectoria institucional",
+    intro: "Mi trayectoria institucional se desarrolló principalmente en el ámbito del Colegio de la Abogacía de La Plata, donde participé activamente en distintas comisiones vinculadas con el ejercicio profesional, la administración de justicia y la defensa de los derechos de los justiciables. A lo largo de estos años, participé en la Comisión de la Abogacía Joven y Novel, donde me desempeñé como Secretaria de Actas; en la Comisión de Administración de Justicia, como Secretaria; y en la Comisión del Registro de Abogadas y Abogados de Niñas, Niños y Adolescentes, donde fui Secretaria de Información, Comunicación y Difusión y actualmente me desempeño como Secretaria Académica. Esta participación institucional forma parte de un compromiso sostenido con el ejercicio profesional, el acceso a la justicia y la defensa de los derechos."
   }
 ]
