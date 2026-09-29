@@ -13,7 +13,7 @@ export default function TrayectoriaPage() {
             </h1>
 
             <p className="mt-6 text-lg leading-8">
-              
+              Mi formación y trayectoria profesional se han desarrollado a lo largo de los años, combinando el ejercicio de la abogacía con la docencia, la investigación y la participación institucional en el Colegio de la Abogacía de La Plata.
             </p>
           </div>
 
@@ -30,7 +30,7 @@ export default function TrayectoriaPage() {
                 </h2>
 
                 {/* Introducción */}
-                <p className="mt-5 leading-7 text-gray-600">
+                <p className="whitespace-pre-line mt-5 leading-7 text-gray-640">
                   {seccion.intro}
                 </p>
                 
