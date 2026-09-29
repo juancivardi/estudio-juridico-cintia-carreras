@@ -109,7 +109,7 @@ export default function ContactoPage() {
                       className="h-[250px] w-[250px] border-0"
                       loading="lazy"
                       referrerPolicy="no-referrer-when-downgrade"
-                      title="Tita Nails La Plata"
+                      title="Cintia Carreras abogada"
                     />
             </div>
 
