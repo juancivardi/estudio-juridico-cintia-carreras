@@ -33,8 +33,10 @@ export default function TrayectoriaPage() {
                 <p className="mt-5 leading-7 text-gray-600">
                   {seccion.intro}
                 </p>
+                
 
-                {/* Puntos */}
+
+                {/* Puntos - Este codigo queda pendiente a ser usado
                 <ul className="mt-7 space-y-4">
                   {seccion.items.map((item) => (
                     <div key={item.title}>
@@ -52,6 +54,7 @@ export default function TrayectoriaPage() {
                     </div>
                   ))}
                 </ul>
+                */}
               </article>
             ))}
           </div>
