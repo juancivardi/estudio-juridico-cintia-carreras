@@ -3,7 +3,7 @@ import Carousel from "@/components/ui/Carousel";
 export default function Coments() {
     const comments = [
         {
-            name: "Grabiela L.",
+            name: "Gabriela L.",
             text: "Cintia me acompañó y me asesoró en uno de los momentos más difíciles. Su compromiso, sensibilidad y profesionalismo hicieron una gran diferencia para mí y para mis hijas. Estoy muy agradecida.",
         },
         {
