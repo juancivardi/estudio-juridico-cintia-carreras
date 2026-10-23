@@ -2,7 +2,7 @@ import Hero from "@/components/home/Hero";
 import PracticeAreas from "@/components/home/PracticeAreas";
 import About from "@/components/home/About";
 import ContactCTA from "@/components/home/ContactCTA";
-import Opinions from "@/components/home/Opinions";
+import Coments from "@/components/home/Coments";
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
         <Hero />
         <About />
         <PracticeAreas />
-        {/*Âca van las opiniones*/}
+        <Coments />
         <ContactCTA />
       </main>
     </>
